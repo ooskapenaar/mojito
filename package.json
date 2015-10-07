@@ -21,7 +21,7 @@
         "express-state": "1.1.x",
         "express-map": "0.1.x",
         "glob": "3.2.x",
-        "js-yaml": "3.0.x",
+        "js-yaml": "3.4.2",
         "mime": "1.2.x",
         "request": "2.34.x",
         "semver": "2.2.x",
