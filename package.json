@@ -1,7 +1,7 @@
 {
     "name": "mojito",
-    "version": "0.9.5",
-    "description": "Mojito provides an architecture, components and tools for developers to build complex web applications faster.",
+    "version": "1.0.1",
+    "description": "based on 0.9.5. Mojito provides an architecture, components and tools for developers to build complex web applications faster.",
     "author": "Drew Folta <folta@yahoo-inc.com>",
     "contributors": [
         "Ric Allinson <allinson@yahoo-inc.com>",
